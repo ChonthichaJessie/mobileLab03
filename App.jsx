@@ -23,7 +23,6 @@ export default App;
 const Wrapper = styled.View`
   background-color: #f7ced2;
   flex: 1;
-  
 `;
 
 const Content = styled.View`
